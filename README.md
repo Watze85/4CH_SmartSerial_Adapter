@@ -5,7 +5,9 @@
 
 Eine kleine Platine um 4 SmartSerial Geräte anzuschießen.
 
-Geeignet für alle Mesa FPGA Karten bei denen ein Bitfile mit SmartSerial Känalen erstellt werden kann. Die Schaltung wandelt die TX/RX Signale des FPGA in RS422 um. Der Adapter ist so aufgebaut, dass das SmartSerial Karten mit dem typisch für Mesa verwendeten RJ45 Patchkabel angeschlossen werden können. Die Spannungsversorgung der Teilnehmer erfolgt auch über diese RJ45-Leistung.
+Geeignet für alle Mesa FPGA Karten die eine 26pollige Wannenbuchse haben, bei denen ein Bitfile mit SmartSerial Kanälen erstellt werden kann.  
+Die Platine ist so aufgebaut, das SmartSerial Karten mit einem RJ45 Patchkabel angeschlossen werden können.   
+Die Spannungsversorgung der Teilnehmer erfolgt auch über diese RJ45-Leistung.
 
 Die Platine wird über das Flachband kabel mit Spannung versorgt.
 
