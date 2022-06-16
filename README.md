@@ -10,4 +10,4 @@ Geeignet für alle Mesa FPGA Karten bei denen ein Bitfile mit SmartSerial Känal
 Die Platine wird über das Flachband kabel mit Spannung versorgt.
 
 
-![This is an image](/IMG_20220616_163312.png)
+![This is an image](IMG_20220616_163312.jpg)
