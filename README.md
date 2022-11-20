@@ -13,3 +13,5 @@ Die Platine wird über das Flachband kabel mit Spannung versorgt.
 
 
 ![This is an image](/Bilder/IMG_20220616_163312.JPG)
+  
+Anschluss Beispiel TsHW Platine an den SmartSerial Adapter (Anschluss TsHW.pdf)
